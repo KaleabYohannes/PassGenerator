@@ -14,3 +14,5 @@ Criterias such as:
 
 
 The Password generator is deployed on the following: https://kaleabyohannes.github.io/PassGenerator
+
+![passgen](https://user-images.githubusercontent.com/78894673/119245241-702ec300-bb2c-11eb-8a00-7a7f60f56475.jpg)
