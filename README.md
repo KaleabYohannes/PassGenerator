@@ -16,3 +16,7 @@ Criterias such as:
 The Password generator is deployed on the following: https://kaleabyohannes.github.io/PassGenerator
 
 ![passgen](https://user-images.githubusercontent.com/78894673/119245241-702ec300-bb2c-11eb-8a00-7a7f60f56475.jpg)
+
+Example of 18 character generated password:
+
+![image](https://user-images.githubusercontent.com/78894673/119245279-e7645700-bb2c-11eb-92a7-1cb99d2b52d4.png)
